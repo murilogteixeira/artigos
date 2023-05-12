@@ -1,6 +1,6 @@
 # Basico
-1. O que e versionamento de codigo?
-2. Como versionar codigo?
+1. O que e versionamento?
+2. Como versionar?
 3. O que e Git?
 4. Sistemas de versionamento
 5. Git = GitHub?
