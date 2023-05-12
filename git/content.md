@@ -1,4 +1,4 @@
-# Primeiros passos (Basico)
+# Basico
 1. O que e versionamento de codigo?
 2. Como versionar codigo?
 3. O que e Git?
@@ -15,7 +15,7 @@
 14. git push
 15. git pull
 
-# Aprimorando (Intermediario)
+# Intermediario
 1. Como organizar melhor o desenvolvimento usando branches?
 2. Como trabalhar em equipe usando o git?
 3. Quais sao os pontos importantes no trabalho em equipe?
@@ -26,7 +26,7 @@
 9. git push -u
 13. git config --global alias.[alias] [comando]
 
-# Casos reais e boas praticas (Avancado)
+# Avancado
 1. Resolvendo conflitos
 2. Criando tags (padrao de versionamento major.minor.path)
 3. Pull Requests
