@@ -5,26 +5,31 @@
 4. Sistemas de versionamento
 5. Git = GitHub?
 6. O que e GitHub?
-7. git config
-8. git init
-9. git clone
-10. git add
-11. git status
-12. git commit
-13. git push
-14. git pull
+7. Quais os comandos basicos do git?
+8. git config
+9. git init
+10. git clone
+11. git add
+12. git status
+13. git commit
+14. git push
+15. git pull
 
 # Aprimorando (Intermediario)
-1. git branch
-2. git checkout
-3. git merge
-4. git log
-5. git push -u
-6. git rebase
-7. git pull --rebase
+1. Como organizar melhor o desenvolvimento?
+2. Como trabalhar em equipe usando o git?
+3. 
+4. git branch
+5. git checkout
+6. git merge
+7. git log
+8. git push -u
+9. git rebase
+10. git pull --rebase
 
 # Casos reais e boas praticas (Avancado)
 1. Resolvendo conflitos
 2. Criando tags
 3. Pull Requests
 4. Issues
+5. GitFlow
