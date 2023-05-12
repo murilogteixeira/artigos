@@ -16,20 +16,24 @@
 15. git pull
 
 # Aprimorando (Intermediario)
-1. Como organizar melhor o desenvolvimento?
+1. Como organizar melhor o desenvolvimento usando branches?
 2. Como trabalhar em equipe usando o git?
-3. 
-4. git branch
-5. git checkout
-6. git merge
-7. git log
-8. git push -u
-9. git rebase
-10. git pull --rebase
+3. Quais sao os pontos importantes no trabalho em equipe?
+4. 
+5. git branch
+6. git checkout
+7. git merge
+8. git log
+9. git push -u
+10. git rebase
+11. git pull --rebase
+13. git config --global alias.[alias] [comando]
 
 # Casos reais e boas praticas (Avancado)
 1. Resolvendo conflitos
-2. Criando tags
+2. Criando tags (padrao de versionamento major.minor.path)
 3. Pull Requests
 4. Issues
 5. GitFlow
+6. Como visualizar o hostorico de commits
+7. Como ver o log de forma grafica?
