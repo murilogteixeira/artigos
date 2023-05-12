@@ -23,10 +23,7 @@
 5. git branch
 6. git checkout
 7. git merge
-8. git log
 9. git push -u
-10. git rebase
-11. git pull --rebase
 13. git config --global alias.[alias] [comando]
 
 # Casos reais e boas praticas (Avancado)
@@ -37,3 +34,6 @@
 5. GitFlow
 6. Como visualizar o hostorico de commits
 7. Como ver o log de forma grafica?
+8. git rebase
+9. git pull --rebase
+
